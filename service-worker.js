@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/snowjoe-challenge/precache-manifest.e19b92b12320b33dbbb0e07caf4b05c1.js"
+  "/snowjoe-challenge/precache-manifest.3f4c2cd3795de90a0230458d6f94f713.js"
 );
 
 self.addEventListener('message', (event) => {

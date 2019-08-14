@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/snowjoe-challenge/static/css/main.c560c97f.chunk.css",
+    "main.css": "/snowjoe-challenge/static/css/main.9e785e50.chunk.css",
     "main.js": "/snowjoe-challenge/static/js/main.236942c9.chunk.js",
     "main.js.map": "/snowjoe-challenge/static/js/main.236942c9.chunk.js.map",
     "runtime~main.js": "/snowjoe-challenge/static/js/runtime~main.a5105d6d.js",
@@ -8,8 +8,8 @@
     "static/js/2.a86a69d9.chunk.js": "/snowjoe-challenge/static/js/2.a86a69d9.chunk.js",
     "static/js/2.a86a69d9.chunk.js.map": "/snowjoe-challenge/static/js/2.a86a69d9.chunk.js.map",
     "index.html": "/snowjoe-challenge/index.html",
-    "precache-manifest.e19b92b12320b33dbbb0e07caf4b05c1.js": "/snowjoe-challenge/precache-manifest.e19b92b12320b33dbbb0e07caf4b05c1.js",
+    "precache-manifest.3f4c2cd3795de90a0230458d6f94f713.js": "/snowjoe-challenge/precache-manifest.3f4c2cd3795de90a0230458d6f94f713.js",
     "service-worker.js": "/snowjoe-challenge/service-worker.js",
-    "static/css/main.c560c97f.chunk.css.map": "/snowjoe-challenge/static/css/main.c560c97f.chunk.css.map"
+    "static/css/main.9e785e50.chunk.css.map": "/snowjoe-challenge/static/css/main.9e785e50.chunk.css.map"
   }
 }
