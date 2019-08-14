@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1c8b42cda4ccdaedaa5184db9128bc1",
+    "revision": "8d0a938a9f45790bdeae407c5494a1bd",
     "url": "/snowjoe-challenge/index.html"
   },
   {
-    "revision": "ad076041dd11454325cd",
-    "url": "/snowjoe-challenge/static/css/main.97f89fe2.chunk.css"
+    "revision": "726cb42a4ded904cca5b",
+    "url": "/snowjoe-challenge/static/css/main.0c61b798.chunk.css"
   },
   {
     "revision": "cbba28e9bc5572fc0fc7",
     "url": "/snowjoe-challenge/static/js/2.a86a69d9.chunk.js"
   },
   {
-    "revision": "ad076041dd11454325cd",
+    "revision": "726cb42a4ded904cca5b",
     "url": "/snowjoe-challenge/static/js/main.236942c9.chunk.js"
   },
   {
