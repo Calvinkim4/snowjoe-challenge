@@ -301,6 +301,7 @@
     }
   
     .item-title {
+      font-size: 3vw;
       text-overflow: ellipsis; 
       overflow: hidden; 
       white-space: nowrap;
@@ -308,14 +309,14 @@
     }
   
     .item-sku {
-      font-size: .8vw;
+      font-size: 2.8vw;
       font-weight: lighter;
       text-align: left;
       margin: 0;
     }
   
     .item-price {
-      font-size: 3vw;
+      font-size: 3.5vw;
       font-weight: 400;
       text-align: left;
       margin-top: 10px;
@@ -326,7 +327,7 @@
       text-transform: capitalize;
       width: auto;
       height: auto;
-      font-size: 1vw;
+      font-size: 3vw;
       background-color: #fff;
       color: #000;
       font-weight: 400;
