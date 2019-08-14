@@ -66,7 +66,7 @@
   
   .modal-section {
     position: relative;
-    width: 60%;
+    width: 70%;
     height: auto;
     margin: 5% auto;
     padding: 30px;
@@ -264,6 +264,11 @@
 
   @media only screen and (max-width: 650px)  {
 
+    .modal-title {
+      font-size: 3vw;
+      font-weight: 400;
+    }
+
     .modal-desc {
       display: none;
     }
@@ -294,9 +299,6 @@
     .title-container {
       display: inline-block;
       width: 50%;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
       text-align: left;
     }
   
@@ -305,7 +307,8 @@
       text-overflow: ellipsis; 
       overflow: hidden; 
       white-space: nowrap;
-      margin: 0;
+      padding: 5px 0;
+      /* margin: 0; */
     }
   
     .item-sku {
@@ -333,5 +336,28 @@
       font-weight: 400;
       border: none;
       padding: 0;
+    }
+
+    .addtocart-btn:hover {
+      transform: scale(1.1);
+    }
+  
+    .addtocart-btn:active {
+      background-color: #fff;
+      color: #1c46b0;
+    }
+  
+    .save-btn {
+      font-size: 3vw;
+    }
+  
+  
+    .checkout-btn {
+      font-size: 3vw;
+    }
+  
+    .nothanks-btn {
+      font-size: 2.5vw;
+
     }
   }
