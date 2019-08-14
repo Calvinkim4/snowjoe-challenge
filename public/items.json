@@ -1,0 +1,33 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Sun Joe SPX3000-MAX Electric Pressure Washer | 2800-PSI MAX | 1.30 GPM | High Performance Brushless Induction Motor",
+            "sku": "SPX3000-MAX",
+            "image": "https://snowjoe.imgix.net/product-images/SPX3000MAX_Image01.jpg?auto=compress&fm=webp&w=700",
+            "price": "189.99"
+        }, 
+        {
+            "id": 2,
+            "title": "Aqua Joe One Touch Adjustable Hose Nozzle | Smart Throttle Control | 2-Pack (Colors Will Vary)*",
+            "sku": "AJHN100-QC-2-BLU",
+            "image": "https://snowjoe.imgix.net/product-images/AJHN100-QC-2-BLUnoqc.jpg?auto=compress&fm=webp&w=700",
+            "price": "29.99" 
+        },
+        {
+            "id": 3,
+            "title": "Sun Joe 20VIONLTE-PHT17 Cordless Telescoping Pole Hedge Trimmer | 17-inch | 2.0-Amp | 20-Volt | Dual Action",
+            "sku": "20VIONLTE-PHT17",
+            "image": "https://snowjoe.imgix.net/product-images/20ViONLTE-PHT17_01.jpg?auto=compress&fm=webp&w=700",
+            "price": "96.00"
+        },
+        {
+            "id": 4,
+            "title": "Sun Joe SJH902E Electric Telescoping Pole Hedge Trimmer | 21-Inch | 4 Amp",
+            "sku": "SJH902E",
+            "image": "https://snowjoe.imgix.net/product-images/SJH902E_001.jpg?auto=compress&fm=webp&w=700",
+            "price": "89.00"
+        }
+    ]
+}
+  
